@@ -1,7 +1,7 @@
 # WeatherAPI Project
 
 <div id="header" align="center">
-  <img src="https://res.cloudinary.com/dkeawhrem/image/upload/v1667775224/Screenshot_2022-11-06_at_16.50.55_pkfgos.png" width="100"/>
+  <img src="https://res.cloudinary.com/dkeawhrem/image/upload/v1667775224/Screenshot_2022-11-06_at_16.50.55_pkfgos.png" width="500"/>
 </div>
 
 ## Used Technologies
